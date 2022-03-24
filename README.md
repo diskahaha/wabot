@@ -48,7 +48,7 @@ Note : If you want to work, check the column 1,2,3,5,6
 Clone this project
 
 ```bash
-> git clone https://github.com/dvnz99/wabot
+> git clone https://github.com/akmallxx/wabot
 > cd wabot
 ```
 
@@ -90,7 +90,7 @@ after running it you need to scan the qr
 ```sh
 INSTALL
 > pkg i nodejs && ffmpeg && git clone
-> git clone https://github.com/Dvnz99/wabot
+> git clone https://github.com/akmallxx/wabot
 > cd wabot
 > npm i
 
@@ -119,10 +119,11 @@ TURN OFF
 ## Contact me
 
 - [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](https://wa.me/message/IZ5ZIVGIQL2NJ1)
+- [WHATSAPP](https://wa.me/628885960825)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
 
 
 ## 🙏 Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
 * [Justpiple](https://github.com/justpiple/whatsapp-bot)
+* [MhankBarBar](https://github.com/mhankbarbar)
